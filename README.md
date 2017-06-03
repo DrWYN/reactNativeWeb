@@ -13,13 +13,14 @@
 
 >create-react-app: https://github.com/facebookincubator/create-react-app
 
-`npm install
+```
+npm install
 //run android
 npm run android
 //run ios
 npm run ios
 //run web
 npm run web
-`
+```
 
 **如果遇到babelHelpers.typeof is not a function,参考https://github.com/facebook/react-native/issues/5747, ./node_modules/react-native/packager/packager.sh start --resetCache**
